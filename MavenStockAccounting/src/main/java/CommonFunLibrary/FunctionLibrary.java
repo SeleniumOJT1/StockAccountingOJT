@@ -246,5 +246,10 @@ WebDriver driver;
 				break;
 			 } 
 	 }
-	
+	//SampleMethod
+	 
+	 public void sampleTest()
+	 {
+		 System.out.println("New Method Added");
+	 }
 }
